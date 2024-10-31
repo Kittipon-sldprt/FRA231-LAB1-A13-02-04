@@ -1,0 +1,10 @@
+config load "C:\Fibo\Year 2\RMX\Lab 3\TestKit2\TestKit2.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\KritZ\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait

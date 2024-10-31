@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/Fibo/YEAR2~1/RMX/LAB3~1/TestKit2/STM32CubeIDE/Application/User/Core/syscalls.c
